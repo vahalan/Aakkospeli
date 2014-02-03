@@ -1,0 +1,17 @@
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\bin\Debug\Aakkospeli.exe
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\bin\Debug\Aakkospeli.pdb
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.Form1.resources
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.Properties.Resources.resources
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.exe
+c:\users\ana\documents\visual studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.pdb
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.exe
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.pdb
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\bin\Debug\Aakkospeli.exe
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\bin\Debug\Aakkospeli.pdb
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.csprojResolveAssemblyReference.cache
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.Form1.resources
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.Properties.Resources.resources
+E:\Users\ana\Documents\Visual Studio 2010\Projects\Aakkospeli\Aakkospeli\obj\x86\Debug\Aakkospeli.csproj.GenerateResource.Cache
